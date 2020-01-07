@@ -11,7 +11,7 @@
     * Viewer infuence <br>
     * Common accounts/posters/users/categories recommended regardless of category
 
-# Hypothesis (#section-title)
+# Hypothesis
 
 <i>Youtube recommendation videos lead users to videos of longer length and astray from the initial category. </i>
 <br>
@@ -38,7 +38,6 @@
 * Hash Tags
 * Number of Comments 
 * Category 
-
 
 ## <u>Top Recommendation Video/Up Next</u>
 * Title
@@ -70,7 +69,6 @@
     
 # Categories
 
-
 * Film & Animation
 * Autos & Vehicles
 * Music
@@ -86,8 +84,7 @@
 * Education
 * Science & Technology
 * Nonprofits & Activism 
-
-Discrepancy Categories
+** Discrepancy Categories
 * Film & Entertainment
 * Beauty & Fashion
 * Tech 
