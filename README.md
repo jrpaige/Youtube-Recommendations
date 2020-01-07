@@ -1,6 +1,5 @@
 # YOUTUBE RECOMMENDATION ALGORHITYM
 ---
----
 
 # Initial Goal
 * Understand/Observe/Identify<br>
@@ -17,11 +16,10 @@
 * Positioning of videos
 
 ---
----
 
 # Scrape Details
 
-*Process*
+## <u>Process</u>
 * Pull information <br>
 * Navigate to first recommendation/Allow autoplay<br>
 * Repeat X 10/50/100
@@ -57,7 +55,6 @@
 * Category
 
 ---
----
 
 # Statistics to Calculate
 * Average number of comments/day
@@ -65,7 +62,6 @@
 * Each video's length proportional to the average and to the last video played
 * Video category at level 10/50/100
 
----
 ---    
     
 # Categories
