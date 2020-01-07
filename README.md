@@ -1,4 +1,6 @@
-# YOUTUBE RECOMMENDATION ALGORHITYM
+# Capstone One 
+
+## Youtube Recommendation Patterns
 
 ---
 
