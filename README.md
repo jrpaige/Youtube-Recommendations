@@ -83,8 +83,8 @@
 * Howto & Style
 * Education
 * Science & Technology
-* Nonprofits & Activism 
-** Discrepancy Categories
+* Nonprofits & Activism <br>
+** Discrepancy Categories <br>
 * Film & Entertainment
 * Beauty & Fashion
 * Tech 
