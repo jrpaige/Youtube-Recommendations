@@ -1,7 +1,6 @@
 # YOUTUBE RECOMMENDATION ALGORHITYM
 
-[Initial Goal] 
-(#Initial-Goal)
+[initial goal] (#initial-goal)
 [section title](#section-title)
 
 
