@@ -1,9 +1,14 @@
 # YOUTUBE RECOMMENDATION ALGORHITYM
 
 
+[Section title](#division_ID)
+
 ---
 
-# Initial Goal (#section-title)
+<a id = "division_ID"text goes here></a>
+
+# Initial Goal 
+
 * Understand/Observe/Identify<br>
     * Algorithm/recommendations patterns <br>
     * Viewer infuence <br>
