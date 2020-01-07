@@ -1,12 +1,12 @@
 # YOUTUBE RECOMMENDATION ALGORHITYM
 
-[initial goal] (#initial-goal)
-[section title](#section-title)
+
+[initial Goal](#section-title)
 
 
 ---
 
-# Initial Goal
+# Initial Goal (#Initial-Goal)
 * Understand/Observe/Identify<br>
     * Algorithm/recommendations patterns <br>
     * Viewer infuence <br>
