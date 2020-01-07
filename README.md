@@ -1,18 +1,15 @@
 # YOUTUBE RECOMMENDATION ALGORHITYM
 
 
-[initial Goal](#section-title)
-
-
 ---
 
-# Initial Goal (#Initial-Goal)
+# Initial Goal (#section-title)
 * Understand/Observe/Identify<br>
     * Algorithm/recommendations patterns <br>
     * Viewer infuence <br>
     * Common accounts/posters/users/categories recommended regardless of category
 
-# Hypothesis 
+# Hypothesis (#section-title)
 
 <i>Youtube recommendation videos lead users to videos of longer length and astray from the initial category. </i>
 <br>
