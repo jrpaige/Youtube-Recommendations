@@ -12,8 +12,7 @@
     * Common accounts/posters/users/categories recommended regardless of category
     * The probability of being recommended a video based on watching certain videos. <br>
     
-      > <i>From the NY Times <br>
-      > <https://www.nytimes.com/2019/08/11/world/americas/youtube-brazil.html> </i><br>
+      > <i><[From the NY Times](https://www.nytimes.com/2019/08/11/world/americas/youtube-brazil.html) </i><br>
       > <br>
       > A team at Harvard set to find out whether rise on the platform of certain topics were boosted by        
       > YouTube’s recommendation engine. They programmed a server to enter a popular channel or search term, then 
