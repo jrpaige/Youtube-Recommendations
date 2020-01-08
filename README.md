@@ -93,10 +93,6 @@
 * Education
 * Science & Technology
 * Nonprofits & Activism <br>
-** Discrepancy Categories <br>
-* Film & Entertainment
-* Beauty & Fashion
-* Tech 
-* Cooking & Health
+
 
 
