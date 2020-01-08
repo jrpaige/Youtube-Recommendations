@@ -2,15 +2,13 @@
 
 ## Youtube Recommendation Patterns
 
-
-      > <i> <[From the NY Times](https://www.nytimes.com/2019/08/11/world/americas/youtube-brazil.html) </i><br>
-      > <br>
-      > A team at Harvard set to find out whether rise on the platform of certain topics were boosted by        
-      > YouTube’s recommendation engine. They programmed a server to enter a popular channel or search term, then 
-      > open YouTube’s top recommendations, then follow the recommendations on each of those, and so on. By  
-      > repeating this thousands of times, the researchers tracked how the platform moved users from one video to       
-      > the next. They found that after users watched a video about politics or even entertainment, YouTube’s 
-      > recommendations often favored right-wing, conspiracy-filled channels like Mr. Moura’s.
+> <i> [From the NY Times](https://www.nytimes.com/2019/08/11/world/americas/youtube-brazil.html) </i><br>
+> <br>
+> A team at Harvard set to find out whether rise on the platform of certain topics were boosted by YouTube’s recommendation 
+> engine. They programmed a server to enter a popular channel or search term, then open YouTube’s top recommendations, then
+> follow the recommendations on each of those, and so on. By repeating this thousands of times, the researchers tracked how 
+> the platform moved users from one video to the next. They found that after users watched a video about politics or even 
+> entertainment, YouTube’s recommendations often favored right-wing, conspiracy-filled channels like Mr. Moura’s.
 ---
 
 # Initial Goal
