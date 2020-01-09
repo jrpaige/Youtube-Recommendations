@@ -11,7 +11,7 @@
 > * They found that after users watched a video about politics or even entertainment, YouTube’s recommendations often favored right-wing, conspiracy-filled channels like Mr. Moura’s.
 
 
-# Initial Goal
+## Initial Goal
 
 * Understand/Observe/Identify<br>
     * Algorithm/recommendations patterns <br>
@@ -20,7 +20,7 @@
     * The probability of being recommended a video based on watching certain videos. <br>
    
 
-# Hypothesis
+## Hypothesis
 
 <i>Youtube recommendation videos lead users to videos of longer length and astray from the initial category. </i>
 <br>
@@ -32,12 +32,51 @@
 
 # Scrape Details
 
-## <u>Process</u>
+## <u> Process </u>
+* Use generic search terms to locate initial video recommendation
+   * Disregard live videos, ad videos, Youtube Movies, Youtube Music, recommended channels, and "Top News" videos (not related to "Politics" or "News" 
 * Pull information <br>
 * Navigate to first recommendation/Allow autoplay<br>
 * Repeat X 10/50/100
 
-## <u> Individual Video</u>
+## </u> Search Terms </u>
+* Film 
+* Animation
+* Autos
+* Vehicles
+* Music
+* Pets
+* Animals
+* Sports
+* Travel
+* Events
+* Gaming
+* Health 
+* Cooking 
+* People
+* Blogs
+* Comedy
+* Entertainment
+* News
+* Politics
+* Howto
+* Style
+* Education
+* Science
+* Technology
+* Nonprofits
+* Activism
+* Beauty 
+* Fashion
+* History
+* Family
+* World 
+* Social
+* Business
+* Food
+
+
+## <u> Initial & Subsequent Top Recommended Videos</u>
 * Title
 * Poster
 * Poster’s number of subscribers
@@ -47,17 +86,6 @@
 * Hash Tags
 * Number of Comments 
 * Category 
-
-## <u>Top Recommendation Video/Up Next</u>
-* Title
-* Poster
-* Poster’s number of subscribers
-* Number of views
-* Length
-* Date Originally Posted
-* Hash Tags
-* Number of Comments 
-* Category <br>
 
 ## <u>Top 10 recommended videos</u>
 * Titles
@@ -76,7 +104,7 @@
 
 ---    
     
-# Categories
+# Youtube Categories
 
 * Film & Animation
 * Autos & Vehicles
@@ -93,6 +121,8 @@
 * Education
 * Science & Technology
 * Nonprofits & Activism <br>
+
+
 
 
 
