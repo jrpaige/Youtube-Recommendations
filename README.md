@@ -1,4 +1,10 @@
-# Capstone One 
+<span style="color:red; font-family:Georgia; text-align:center; font-size:100em;"> Capstone One </span>
+
+
+### CAPSTONE ONE
+.text-center
+
+
 
 ## Youtube Recommendation Patterns
 
@@ -11,7 +17,7 @@
 > entertainment, YouTube’s recommendations often favored right-wing, conspiracy-filled channels like Mr. Moura’s.
 ---
 
-# Initial Goal
+# Initial Goal{:toc}
 
 * Understand/Observe/Identify<br>
     * Algorithm/recommendations patterns <br>
