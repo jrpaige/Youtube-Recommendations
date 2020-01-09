@@ -42,7 +42,6 @@
 ## </u> Search Terms </u>
 * Film 
 * Animation
-* Autos
 * Vehicles
 * Music
 * Pets
@@ -54,7 +53,6 @@
 * Health 
 * Cooking 
 * People
-* Blogs
 * Comedy
 * Entertainment
 * News
@@ -64,16 +62,13 @@
 * Education
 * Science
 * Technology
-* Nonprofits
 * Activism
 * Beauty 
 * Fashion
 * History
 * Family
-* World 
 * Social
 * Business
-* Food
 
 
 ## <u> Initial & Subsequent Top Recommended Videos</u>
