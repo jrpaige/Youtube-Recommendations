@@ -1,8 +1,7 @@
 <span style="color:red; font-family:Georgia; text-align:center; font-size:100em;"> Capstone One </span>
 
 
-### CAPSTONE ONE
-.text-center
+<center> <h1>CAPSTONE ONE </h1></center>
 
 
 
