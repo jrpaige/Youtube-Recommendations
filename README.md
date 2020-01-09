@@ -78,16 +78,10 @@
 * Number of views
 * Length
 * Date Originally Posted
-* Hash Tags
-* Number of Comments 
 * Category 
+* Number of Likes & Dislikes
+* Top Recommended Video
 
-## <u>Top 10 recommended videos</u>
-* Titles
-* poster
-* Number of views
-* Length
-* Category
 
 ---
 
@@ -95,7 +89,10 @@
 * Average number of comments/day
 * Average length of youtube video
 * Each video's length proportional to the average and to the last video played
-* Video category at level 10/50/100
+* Video category at level 10/25/50
+* How many recommended videos were longer than 10 minutes?
+* How many videos were the same poster?
+
 
 ---    
     
