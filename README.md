@@ -20,13 +20,14 @@
     * The probability of being recommended a video based on watching certain videos. <br>
    
 
-## Hypothesis
+## Hypotheses
 
-<i>Youtube recommendation videos lead users to videos of longer length and astray from the initial category. </i>
+<i>Youtube recommendation videos lead users to videos of longer length <br>
+   Youtube recommendation videos lead users astray from the initial category within 10 subsequent recommendations.. <br>
+   Youtube recommendation videos present users with videos from repeat posters more than 3 times within 50 subsequent recommendations.  
+</i>
 <br>
-<i>Thoughtful Queries </i>
-* How often are the recommendation videos being clicked?<br>
-* Positioning of videos
+
 
 ---
 
@@ -120,3 +121,8 @@ notes to add
 up next vs recommended 
 process - clean history, site data, cookies after each scrape
 
+# Next Steps:
+
+<i>Thoughtful Queries </i>
+* How often are the recommendation videos being clicked?<br>
+* Positioning of videos
