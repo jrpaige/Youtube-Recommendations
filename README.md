@@ -116,5 +116,7 @@
 
 
 
-
+notes to add 
+up next vs recommended 
+process - clean history, site data, cookies after each scrape
 
